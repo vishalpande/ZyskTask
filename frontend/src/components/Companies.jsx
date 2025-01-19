@@ -2,7 +2,7 @@ import React from "react";
 import Boltshift from "../assets/Boltshift.png";
 import Lightbox from "../assets/Ligtbox.png";
 import Feather from "../assets/Feather.png";
-import spherule from "../assets/spherule.png";
+import spherule from "../assets/Spherule.png";
 import global from "../assets/global.png";
 import niet from "../assets/Niet.png";
 
